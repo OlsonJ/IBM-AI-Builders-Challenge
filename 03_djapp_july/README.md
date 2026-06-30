@@ -58,18 +58,18 @@ Complete the prerequisite tasks of [Get started with IBM Bob](get-started-with-i
 
 ## Task 1: Clone and open the starter project
 
-The `dj-app` is a pre-built starter project that includes a basic DJ web application. Follow these steps to clone the repository as a starting point for the project:
+The `03_djapp_july` is a pre-built starter project that includes a basic DJ web application. Follow these steps to clone the repository as a starting point for the project:
 
 1. In IBM Bob, verify whether the terminal panel is visible. If you don't see a terminal panel, click **Terminal > New Terminal**.
 
 2. In the terminal, copy and paste these commands to clone the starter project and open it:
 
    ```bash
-   git clone https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/hands-on-labs/tree/main/03_djapp_july
-   cd dj-app
+   git clone https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/hands-on-labs.git
+   cd 03_djapp_july
    ```
 
-2. **Important:** In IBM Bob, click **File > Open Folder**, then open the `dj-app` folder that you just cloned to make sure that all file paths in subsequent prompts work correctly.
+2. **Important:** In IBM Bob, click **File > Open Folder**, then open the `03_djapp_july` folder that you just cloned to make sure that all file paths in subsequent prompts work correctly. Note that the GitHub repository contains multiple folders and labs, however, this lab is specific to the `03_djapp_july` folder.
 
 3. Review the project structure.
 
