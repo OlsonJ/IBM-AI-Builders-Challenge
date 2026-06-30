@@ -65,7 +65,7 @@ The `dj-app` is a pre-built starter project that includes a basic DJ web applica
 2. In the terminal, copy and paste these commands to clone the starter project and open it:
 
    ```bash
-   git clone https://github.ibm.com/Sharyn-Richard1/dj-app
+   git clone [https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/hands-on-labs/tree/main/03_djapp_july]
    cd dj-app
    ```
 
