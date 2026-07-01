@@ -23,3 +23,7 @@ Stuck or have a question?
 ---
 
 Have fun building and experimenting 🚀
+
+# Individual Contribution to challenges
+
+This readme will be updated to reflect july and august challenges
